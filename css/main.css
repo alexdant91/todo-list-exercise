@@ -1,0 +1,16 @@
+.container {
+  margin: 40px auto;
+}
+
+.pagination-container {
+  width: 100%;
+  margin: 40px 0 0 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+thead.thead-dark {
+  background-color: #212529;
+  color: #fff;
+}
