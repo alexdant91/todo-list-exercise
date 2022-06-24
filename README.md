@@ -17,4 +17,4 @@ Per ottenere una risposta dovremo utilizzare la libreria fetch che si occupa di 
 
 ## Info
 
-Trovate tutte le informazioni riguardo l'API [qui](https://jsonplaceholder.typicode.com/todos). Importante ricordare che anche la grafica non deve essere trascurata, perciò fate buon uso di HTML e di CSS (plus: potete usare bootstrap).
+Trovate tutte le informazioni riguardo l'API [qui](https://jsonplaceholder.typicode.com). Importante ricordare che anche la grafica non deve essere trascurata, perciò fate buon uso di HTML e di CSS (plus: potete usare bootstrap).
